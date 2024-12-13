@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "4d95",
+      "username": "testing",
+      "email": "testing@gmail.com",
+      "password": "testing"
+    },
+    {
+      "id": "3b55",
+      "username": "testing",
+      "email": "testing@gmail.com",
+      "password": "testing"
+    },
+    {
+      "id": "8138",
+      "username": "testing",
+      "email": "testing@gmail.com",
+      "password": "testing"
+    },
+    {
+      "id": "2b51",
+      "username": "testing",
+      "email": "testing@gmail.com",
+      "password": "testing"
+    }
+  ],
+  "products": [],
+  "carts": []
+}
